@@ -70,3 +70,4 @@ int main() {
 
     return 0;
 }
+//Verdad que debo preguntarle al profe sobre Strings, Structs y Unions luego
